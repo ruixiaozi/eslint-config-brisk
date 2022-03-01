@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-brisk",
+  "version": "1.0.0",
+  "description": "brisk project use eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruixiaozi/eslint-config-brisk.git"
+  },
+  "keywords": [
+    "eslint",
+    "brisk",
+    "config"
+  ],
+  "author": "ruixiaozi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruixiaozi/eslint-config-brisk/issues"
+  },
+  "homepage": "https://github.com/ruixiaozi/eslint-config-brisk#readme"
+}
