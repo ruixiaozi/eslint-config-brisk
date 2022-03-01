@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ruixiaozi/eslint-config-brisk/issues"
   },
-  "homepage": "https://github.com/ruixiaozi/eslint-config-brisk#readme"
+  "homepage": "https://github.com/ruixiaozi/eslint-config-brisk#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
 }
