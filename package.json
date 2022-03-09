@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-brisk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "brisk project use eslint config",
   "main": "index.js",
   "scripts": {
