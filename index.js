@@ -1,1 +1,1 @@
-module.exports = require('./lib/common.config');
+module.exports = require('./jslint.js');
